@@ -1,7 +1,9 @@
 # 北京喬福芳草地 | 數字化營銷投入產出 (ROI) 分析戰情室
 # Parkview Green Marketing ROI Analysis Dashboard
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-success?style=flat-square)
 
 ---
 
